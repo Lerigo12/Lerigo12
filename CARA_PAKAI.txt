@@ -1,0 +1,18 @@
+# Cara memasang profil GitHub Lerigo12
+
+1. Buka https://github.com/new
+2. Buat repository publik bernama `Lerigo12` (harus sama dengan username).
+3. Pastikan ada file `README.md`.
+4. Upload file `README.md` ini dan folder `assets` ke repository tersebut.
+5. Di GitHub, edit README dan ganti `URL_REPOSITORY_RW` serta `URL_REPOSITORY_WARUNGKU` dengan URL repository yang benar. Jika repository belum ada, hapus dulu baris tautan tersebut.
+6. Commit changes.
+
+Struktur file:
+- README.md
+- assets/banner.png
+- assets/avatar.png
+
+Catatan:
+- Banner dipakai otomatis oleh README.
+- `avatar.png` dapat dipakai sebagai inspirasi untuk foto profil akun; unggah lewat Settings > Public profile.
+- Statistik GitHub berasal dari layanan eksternal GitHub Readme Stats dan dapat berubah sesuai data publik yang tersedia.
