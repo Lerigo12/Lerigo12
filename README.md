@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 <img src="./assets/banner.png" alt="Lerigo12 — Student and Web Developer" width="100%">
