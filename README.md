@@ -53,20 +53,6 @@ Sistem informasi administrasi RW untuk membantu pengelolaan data warga, iuran, p
 </td>
 <td width="50%" valign="top">
 
-### 🧾 Warungku
-
-Konsep aplikasi kasir untuk membantu pencatatan transaksi dan operasional warung.
-
-**Teknologi yang direncanakan:** Next.js · Supabase
-
-**Status:** Tahap perencanaan
-
-<!-- Ganti URL_REPOSITORY_WARUNGKU dengan URL repository Warungku setelah dibuat -->
-[ Lihat repository → ](URL_REPOSITORY_WARUNGKU)
-
-</td>
-</tr>
-</table>
 
 ## 📊 Statistik GitHub
 
