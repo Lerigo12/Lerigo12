@@ -3,7 +3,7 @@
 
 <img src="./assets/banner.png" alt="Lerigo12 — Student and Web Developer" width="100%">
 
-# Lerigo12
+# ACHMAD NAUFAL
 
 **Mahasiswa · Web Developer · Indonesia 🇮🇩**
 
